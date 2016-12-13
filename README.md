@@ -5,4 +5,4 @@ Project status: Inception; no code currently has been imported from the relevant
 
 Pending tasks :
  * Import existing oberon parser code written by egp
- * во, надо туда ещё прожект_восток припрячь, в отдельном репе https://github.com/egphilippov/eastern_axe
+ * во, надо сюда ещё прожект_восток припрячь, в отдельном репе https://github.com/egphilippov/eastern_axe . И прожект GodAndAdam тоже в восточный топор влить
