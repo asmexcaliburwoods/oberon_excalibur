@@ -8,6 +8,6 @@ Glossary
 
 Pending tasks
  * Import existing oberon parser code written by egp
- * во, надо сюда ещё прожект_восток припрячь, в отдельном репе https://github.com/egphilippov/eastern_axe . И прожект GodAndAdam тоже в восточный топор влить. надо только для последних двух oberon_eval(…) закодить — для полноты картины. oberon_eval в отдельном репе, чтобы футпринт выхлопа OAXE не рос
+ * во, надо сюда ещё прожект_восток припрячь, в отдельном репе https://github.com/egphilippov/eastern_axe . И прожект GodAndAdam тоже в восточный топор влить. надо только для последних двух oberon_eval(…) закодить — для полноты картины. oberon_eval в отдельном репе, чтобы футпринт выхлопа OAXE (выхлопа в продакшен и интегрейшан) не рос
  
 будем с топориком бегать как в старом добром мультике ohotnik4.mpg https://www.youtube.com/watch?v=NVS1DZt0K6c&feature=youtu.be
