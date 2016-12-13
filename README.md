@@ -7,7 +7,7 @@ Inception ; no code currently has been imported from the relevant repos of egp a
 
 ## Rationale for choosing Oberon as the main center
 
-Oberon is the simplest programming language in the world: Oberon Programming Language Report by N Wirth occupies 20 pages of text (referring to scientific terms and conditions, but this is an total extremum (supremum) of `okay`!)
+Oberon is the simplest programming language in the world : Oberon Programming Language Report by N Wirth occupies 20 pages of text (referring to scientific terms and conditions, but this is an total extremum (supremum) of `okay`!)
 
 ## Glossary
  * OA → OAXE → OBERON AXE ↯↯↯
