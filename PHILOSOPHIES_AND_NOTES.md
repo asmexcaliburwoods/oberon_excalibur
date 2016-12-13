@@ -1,0 +1,3 @@
+#PHILOSOPHIES AND NOTES
+
+будем учинять `VAR метапараллакс`…
